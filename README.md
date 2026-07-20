@@ -5,10 +5,10 @@
 # 👋 Hey, I'm Danya
 
 <h3>
-<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="26">
+<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="28">
 Lua / GLua Developer
 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="26">
+<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="28">
 Garry's Mod Developer
 </h3>
 
@@ -37,16 +37,10 @@ local me = {
 }
 ```
 
-<div align="center">
-
-| | |
-|:--:|:--:|
-| <img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="22"> Lua | Main programming language |
-| <img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="22"> GLua | Garry's Mod scripting |
-| 💻 | Creating addons & game systems |
-| 🚀 | Always learning something new |
-
-</div>
+- <img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="20"> Writing Lua scripts
+- <img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="20"> Creating GLua systems for Garry's Mod
+- 🎮 Developing addons and game mechanics
+- 🚀 Improving my coding skills every day
 
 ---
 
@@ -54,27 +48,27 @@ local me = {
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=64" width="60" title="Lua"/>
+<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=64" width="60">
 
-<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="60" title="Garry's Mod"/>
+<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="60">
 
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60">
 
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60">
 
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60">
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -84,17 +78,17 @@ local me = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesheen&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesheen&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -104,7 +98,7 @@ local me = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codesheen&theme=tokyonight&column=4&no-frame=true"/>
 
 </div>
 
@@ -114,31 +108,39 @@ local me = {
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://discord.com/users/code.sheen">
+<img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/YOUR_INVITE">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://steamcommunity.com/profiles/76561199811047199/">
+<img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
-<a href="https://steamcommunity.com/id/YOUR_STEAM">
-<img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
-
-<a href="https://vk.com/YOUR_VK">
-<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
+<a href="https://github.com/codesheen">
+<img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Visitors
+# 📬 Contact
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<a href="mailto:codesheen@gmail.com">
+<img src="https://img.shields.io/badge/Email-codesheen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=codesheen&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -146,7 +148,7 @@ local me = {
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
 
