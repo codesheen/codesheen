@@ -52,11 +52,7 @@ local me = {
 
 <img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="60">
 
-<img src="https://skillicons.dev/icons?i=git" height="60">
-
-<img src="https://skillicons.dev/icons?i=github" height="60">
-
-<img src="https://skillicons.dev/icons?i=vscode" height="60">
+<img src="https://cdn.discordapp.com/emojis/1528805286306123777.webp?size=80" height="60">
 
 </div>
 
