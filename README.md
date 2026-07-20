@@ -1,13 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Danya!&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Danya%20%7C%20sheen&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
 
-# 👋 Welcome to my GitHub
+# 👋 Hey, I'm Danya
 
-### 💻 Lua / GLua Developer
-### 🎮 Garry's Mod Addon Developer
+<h3>
+<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="26">
+Lua / GLua Developer
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="26">
+Garry's Mod Developer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&random=false&width=700&lines=Nickname:+sheen;Lua+%7C+GLua+Developer;Creating+addons+for+Garry's+Mod;Always+learning+new+things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname:+sheen;Lua+%7C+GLua+Developer;Creating+Garry's+Mod+Addons;Always+Learning+New+Things"/>
 
 </div>
 
@@ -16,81 +21,100 @@
 # 🚀 About Me
 
 ```lua
-local developer = {
+local me = {
     name = "Danya",
     nickname = "sheen",
-    languages = { "Lua", "GLua" },
+
+    skills = {
+        "Lua",
+        "GLua",
+        "Garry's Mod Development"
+    },
+
     editor = "Visual Studio Code",
-    game = "Garry's Mod",
+
     status = "Coding..."
 }
 ```
 
-- 💻 Lua Developer
-- ⚙️ GLua Developer
-- 🎮 Garry's Mod scripting
-- 📚 Learning every day
-- ☕ Coffee = Productivity
+<div align="center">
+
+| | |
+|:--:|:--:|
+| <img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="22"> Lua | Main programming language |
+| <img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="22"> GLua | Garry's Mod scripting |
+| 💻 | Creating addons & game systems |
+| 🚀 | Always learning something new |
+
+</div>
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,git,github,vscode,linux"/>
+<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=64" width="60" title="Lua"/>
 
-</p>
+<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="60" title="Garry's Mod"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+
+</div>
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Activity Graph
+# 📊 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&no-frame=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🌐 Socials
 
-<p align="center">
+<div align="center">
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/YOUR_TELEGRAM">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -106,24 +130,24 @@ local developer = {
 <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 👀 Visitors
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### ⭐ Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
