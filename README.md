@@ -9,10 +9,10 @@
 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
 💻 Learning Unreal Engine 5
 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-📚 VG1 Student
+📚 VG1 IM Student
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname%3A+sheen;Learning+Unreal+Engine+5;Blueprints+Developer;Game+Development;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname%3A+sheen;Learning+Unreal+Engine+5;Blueprints+Developer;Game+Development;Building+My+Own+Games;Always+Learning+New+Things"/>
 
 </div>
 
@@ -36,7 +36,11 @@ local me = {
         "GLua"
     },
 
-    editor = "Visual Studio Code",
+    tools = {
+        "Unreal Engine 5",
+        "Visual Studio Code",
+        "Git"
+    },
 
     education = "VG1 IM",
 
@@ -46,9 +50,10 @@ local me = {
 
 * 🎮 Currently learning **Unreal Engine 5**
 * 🔵 Working with **Blueprints**
-* 🛠️ Learning game development and game mechanics
+* 🛠️ Learning game development and gameplay systems
+* 🗺️ Experimenting with level design and game mechanics
 * 💻 Previous experience with **Lua & GLua**
-* 📚 Currently studying in **VG1 IM**
+* 📚 Currently studying **VG1 IM**
 * 🚀 Always learning and improving my skills
 
 ---
@@ -57,11 +62,23 @@ local me = {
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60">
+<a href="https://www.unrealengine.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="70" alt="Unreal Engine"/>
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60">
+    
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60" alt="Lua"/>
+
+    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
+
+</div>
+
+<div align="center">
+
+**Unreal Engine 5**  •  **Blueprints**  •  **Lua**  •  **Git**
 
 </div>
 
@@ -73,14 +90,43 @@ local me = {
 
 ### Unreal Engine 5
 
-🔵 Blueprints
-🎮 Gameplay Systems
-🗺️ Level Design
-🎥 Cameras & Visual Effects
-⚙️ Game Mechanics
-🚀 Optimization
+🔵 **Blueprints**
+
+🎮 **Gameplay Systems**
+
+🗺️ **Level Design**
+
+🎥 **Cameras & Visual Effects**
+
+⚙️ **Game Mechanics**
+
+🎨 **Materials & Visuals**
+
+🤖 **AI & NPC Systems**
+
+🚀 **Optimization**
 
 </div>
+
+---
+
+# 💻 Previous Experience
+
+<div align="center">
+
+### Lua & GLua
+
+🧩 Scripts & Systems
+
+🎮 Garry's Mod Addons
+
+⚙️ Gameplay Mechanics
+
+💻 Lua Programming
+
+</div>
+
+> Lua and GLua are technologies I have worked with before, while my current main focus is **Unreal Engine 5 and Blueprints**.
 
 ---
 
@@ -134,9 +180,13 @@ local me = {
 <img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://steamcommunity.com/profiles/76561199811047199/">
 <img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://github.com/codesheen">
 <img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
