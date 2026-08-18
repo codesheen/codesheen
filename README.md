@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Danya%20%7C%20sheen&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
 
-# 👋 Hey, I'm Danya
+# 👋 Hey, I'm Daniel
 
 <h3>
-<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="28">
-Lua / GLua Developer
+🎮 Game Developer
 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="28">
-Garry's Mod Developer
+💻 Learning Unreal Engine 5
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+📚 VG1 Student
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname:+sheen;Lua+%7C+GLua+Developer;Creating+Garry's+Mod+Addons;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname%3A+sheen;Learning+Unreal+Engine+5;Blueprints+Developer;Game+Development;Always+Learning+New+Things"/>
 
 </div>
 
@@ -22,25 +22,34 @@ Garry's Mod Developer
 
 ```lua
 local me = {
-    name = "Danya",
+    name = "Daniel",
     nickname = "sheen",
 
-    skills = {
+    currently_learning = {
+        "Unreal Engine 5",
+        "Blueprints",
+        "Game Development"
+    },
+
+    previous_experience = {
         "Lua",
-        "GLua",
-        "Garry's Mod Development"
+        "GLua"
     },
 
     editor = "Visual Studio Code",
 
-    status = "Coding..."
+    education = "VG1",
+
+    status = "Learning and developing"
 }
 ```
 
-- <img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=28" width="20"> Writing Lua scripts
-- <img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="20"> Creating GLua systems for Garry's Mod
-- 🎮 Developing addons and game mechanics
-- 🚀 Improving my coding skills every day
+* 🎮 Currently learning **Unreal Engine 5**
+* 🔵 Working with **Blueprints**
+* 🛠️ Learning game development and game mechanics
+* 💻 Previous experience with **Lua & GLua**
+* 📚 Currently studying in **VG1**
+* 🚀 Always learning and improving my skills
 
 ---
 
@@ -48,11 +57,28 @@ local me = {
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/emojis/562386493449175080.webp?size=64" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60">
 
-<img src="https://cdn.discordapp.com/emojis/848215324797042779.webp?size=80" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60">
 
-<img src="https://cdn.discordapp.com/emojis/1528805286306123777.webp?size=80" height="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60">
+
+</div>
+
+---
+
+# 🎮 Currently Learning
+
+<div align="center">
+
+### Unreal Engine 5
+
+🔵 Blueprints
+🎮 Gameplay Systems
+🗺️ Level Design
+🎥 Cameras & Visual Effects
+⚙️ Game Mechanics
+🚀 Optimization
 
 </div>
 
