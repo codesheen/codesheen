@@ -91,31 +91,6 @@ local me = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=codesheen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codesheen&theme=tokyonight&column=4&no-frame=true"/>
-
-</div>
-
----
-
 ## 🌐 Socials & Contact
 
 <div align="center">
@@ -130,10 +105,6 @@ local me = {
 &nbsp;
 <a href="https://github.com/codesheen">
   <img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:codesheen@gmail.com">
-  <img src="https://img.shields.io/badge/Email-codesheen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
