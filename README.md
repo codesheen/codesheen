@@ -38,7 +38,7 @@ local me = {
 
     editor = "Visual Studio Code",
 
-    education = "VG1",
+    education = "VG1 IM",
 
     status = "Learning and developing"
 }
@@ -48,7 +48,7 @@ local me = {
 * 🔵 Working with **Blueprints**
 * 🛠️ Learning game development and game mechanics
 * 💻 Previous experience with **Lua & GLua**
-* 📚 Currently studying in **VG1**
+* 📚 Currently studying in **VG1 IM**
 * 🚀 Always learning and improving my skills
 
 ---
