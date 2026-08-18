@@ -4,13 +4,7 @@
 
 # 👋 Hey, I'm Daniel
 
-<h3>
-🎮 Game Developer
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-💻 Learning Unreal Engine 5
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-📚 VG1 IM Student
-</h3>
+### 🎮 Game Developer • 💻 Learning Unreal Engine 5 • 📚 VG1 IM Student
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname%3A+sheen;Learning+Unreal+Engine+5;Blueprints+Developer;Game+Development;Building+My+Own+Games;Always+Learning+New+Things"/>
 
@@ -18,7 +12,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```lua
 local me = {
@@ -58,71 +52,38 @@ local me = {
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
 <a href="https://www.unrealengine.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="70" alt="Unreal Engine"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="60" alt="Unreal Engine"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" alt="Lua"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
 
-    
+<br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60" alt="Lua"/>
-
-    
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
-
-</div>
-
-<div align="center">
-
-**Unreal Engine 5**  •  **Blueprints**  •  **Lua**  •  **Git**
+**Unreal Engine 5** • **Blueprints** • **Lua** • **Git**
 
 </div>
 
 ---
 
-# 🎮 Currently Learning
+## 🎮 Currently Learning & Skills
 
 <div align="center">
 
 ### Unreal Engine 5
+🔵 **Blueprints** • 🎮 **Gameplay Systems** • 🗺️ **Level Design** • 🎥 **Cameras & Visual Effects**  
+⚙️ **Game Mechanics** • 🎨 **Materials & Visuals** • 🤖 **AI & NPC Systems** • 🚀 **Optimization**
 
-🔵 **Blueprints**
+<br/>
 
-🎮 **Gameplay Systems**
-
-🗺️ **Level Design**
-
-🎥 **Cameras & Visual Effects**
-
-⚙️ **Game Mechanics**
-
-🎨 **Materials & Visuals**
-
-🤖 **AI & NPC Systems**
-
-🚀 **Optimization**
-
-</div>
-
----
-
-# 💻 Previous Experience
-
-<div align="center">
-
-### Lua & GLua
-
-🧩 Scripts & Systems
-
-🎮 Garry's Mod Addons
-
-⚙️ Gameplay Mechanics
-
-💻 Lua Programming
+### Previous Experience (Lua & GLua)
+🧩 Scripts & Systems • 🎮 Garry's Mod Addons • ⚙️ Gameplay Mechanics
 
 </div>
 
@@ -130,39 +91,22 @@ local me = {
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=codesheen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesheen&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesheen&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -172,45 +116,27 @@ local me = {
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials & Contact
 
 <div align="center">
 
 <a href="https://discord.com/users/code.sheen">
-<img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://steamcommunity.com/profiles/76561199811047199/">
-<img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://github.com/codesheen">
-<img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 📬 Contact
-
-<div align="center">
-
+&nbsp;
 <a href="mailto:codesheen@gmail.com">
-<img src="https://img.shields.io/badge/Email-codesheen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-codesheen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=codesheen&style=for-the-badge&color=blue"/>
 
