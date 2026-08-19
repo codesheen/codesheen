@@ -59,7 +59,7 @@ local me = {
 <a href="https://www.unrealengine.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="60" alt="Unreal Engine"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" alt="Lua"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
