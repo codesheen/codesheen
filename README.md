@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Daniel
 
-### 🎮 Game Developer • 💻 Learning Unreal Engine 5 • 📚 VG1 IM Student
+### 🎮 Game Developer • 💻 Unreal Engine 5 • 📚 VG1 IM Student
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname%3A+sheen;Learning+Unreal+Engine+5;Blueprints+Developer;Game+Development;Building+My+Own+Games;Always+Learning+New+Things"/>
 
@@ -19,10 +19,11 @@ local me = {
     name = "Daniel",
     nickname = "sheen",
 
-    currently_learning = {
+    current_focus = {
         "Unreal Engine 5",
         "Blueprints",
-        "Game Development"
+        "Game Development",
+        "Gameplay Systems"
     },
 
     previous_experience = {
@@ -42,52 +43,88 @@ local me = {
 }
 ```
 
-* 🎮 Currently learning **Unreal Engine 5**
-* 🔵 Working with **Blueprints**
-* 🛠️ Learning game development and gameplay systems
-* 🗺️ Experimenting with level design and game mechanics
-* 💻 Previous experience with **Lua & GLua**
-* 📚 Currently studying **VG1 IM**
-* 🚀 Always learning and improving my skills
+- 🎮 Currently learning **Unreal Engine 5**
+- 🔵 Working mainly with **Blueprints**
+- 🛠️ Building gameplay systems and mechanics
+- 🗺️ Experimenting with level design
+- 🎥 Learning cameras, visual effects and game presentation
+- 🤖 Exploring AI and NPC systems
+- 💻 Previous experience with **Lua & GLua**
+- 📚 Currently studying **VG1 IM**
+- 🚀 Always learning and improving
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <a href="https://www.unrealengine.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="60" alt="Unreal Engine"/>
+<img src="https://cdn.simpleicons.org/unrealengine/ffffff" width="65" height="65" alt="Unreal Engine"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" alt="Lua"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br/><br/>
+<img src="https://cdn.simpleicons.org/lua/2C2D72" width="60" height="60" alt="Lua"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Unreal Engine 5** • **Blueprints** • **Lua** • **Git**
+<img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60" alt="Git"/>
+
+<br/>
+
+### Unreal Engine 5 &nbsp; • &nbsp; Blueprints &nbsp; • &nbsp; Lua &nbsp; • &nbsp; Git
 
 </div>
 
 ---
 
-## 🎮 Currently Learning & Skills
+## 🎮 Currently Learning
 
 <div align="center">
 
-### Unreal Engine 5
-🔵 **Blueprints** • 🎮 **Gameplay Systems** • 🗺️ **Level Design** • 🎥 **Cameras & Visual Effects**  
-⚙️ **Game Mechanics** • 🎨 **Materials & Visuals** • 🤖 **AI & NPC Systems** • 🚀 **Optimization**
+### 🔵 Unreal Engine 5
 
-<br/>
-
-### Previous Experience (Lua & GLua)
-🧩 Scripts & Systems • 🎮 Garry's Mod Addons • ⚙️ Gameplay Mechanics
+| 🎯 Area | 📚 Focus |
+|:---:|:---|
+| 🔵 **Blueprints** | Gameplay programming & systems |
+| ⚙️ **Gameplay** | Mechanics, interactions & systems |
+| 🗺️ **Level Design** | Environments, layouts & world building |
+| 🎥 **Cameras** | Camera systems & visual presentation |
+| ✨ **VFX** | Visual effects & atmosphere |
+| 🎨 **Materials** | Materials, shaders & visuals |
+| 🤖 **AI / NPC** | AI behavior & NPC systems |
+| 🚀 **Optimization** | Performance & optimization |
 
 </div>
 
-> Lua and GLua are technologies I have worked with before, while my current main focus is **Unreal Engine 5 and Blueprints**.
+---
+
+## 🧩 Previous Experience
+
+<div align="center">
+
+### 🌙 Lua & GLua
+
+**Scripts & Systems** • **Garry's Mod Addons** • **Gameplay Mechanics**
+
+</div>
+
+Lua and GLua are technologies I have worked with previously, while my current main focus is **Unreal Engine 5 and Blueprints**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesheen&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -96,20 +133,24 @@ local me = {
 <div align="center">
 
 <a href="https://discord.com/users/code.sheen">
-  <img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://steamcommunity.com/profiles/76561199811047199/">
-  <img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://github.com/codesheen">
-  <img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=codesheen&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=codesheen&style=for-the-badge&color=61DAFB"/>
 
 </div>
 
@@ -118,6 +159,8 @@ local me = {
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
 
