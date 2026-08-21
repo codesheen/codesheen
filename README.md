@@ -1,4 +1,4 @@
-# Daniel (sheen)
+\# Daniel (sheen)
 
 Norway, Sandnes
 
@@ -14,4 +14,4 @@ Studying VG1 IM right now.
 
 ## Contact
 
-[Discord](https://discord.com/users/code.sheen) · [Steam](https://steamcommunity.com/profiles/76561199811047199/)
+![Discord](https://discord.com/users/code.sheen) · ![Steam](https://steamcommunity.com/profiles/76561199811047199/)
