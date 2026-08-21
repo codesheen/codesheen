@@ -1,167 +1,49 @@
-<div align="center">
+# Daniel (sheen)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Danya%20%7C%20sheen&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
+Norway, Sandnes
 
-# 👋 Hey, I'm Daniel
-
-### 🎮 Game Developer • 💻 Unreal Engine 5 • 📚 VG1 IM Student
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Nickname%3A+sheen;Learning+Unreal+Engine+5;Blueprints+Developer;Game+Development;Building+My+Own+Games;Always+Learning+New+Things"/>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=61DAFB&center=false&vCenter=true&width=600&lines=Unreal+Engine+5;Blueprints+%2B+gameplay+systems;Learning+as+I+go)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
+## About
 
-```lua
-local me = {
-    name = "Daniel",
-    nickname = "sheen",
+Working in Unreal Engine 5, mostly on Blueprints. Building gameplay systems, messing with cameras and level design. Before this — Lua and GLua, mostly Garry's Mod addons and scripts.
 
-    current_focus = {
-        "Unreal Engine 5",
-        "Blueprints",
-        "Game Development",
-        "Gameplay Systems"
-    },
+Studying VG1 IM right now.
 
-    previous_experience = {
-        "Lua",
-        "GLua"
-    },
+```
+name = "Daniel"
+nick = "sheen"
 
-    tools = {
-        "Unreal Engine 5",
-        "Visual Studio Code",
-        "Git"
-    },
+focus = ["Unreal Engine 5", "Blueprints", "gameplay systems"]
+before = ["Lua", "GLua"]
+tools  = ["Unreal Engine 5", "VS Code", "Git"]
 
-    education = "VG1 IM",
-
-    status = "Learning and developing"
-}
+status = "learning and building"
 ```
 
-- 🎮 Currently learning **Unreal Engine 5**
-- 🔵 Working mainly with **Blueprints**
-- 🛠️ Building gameplay systems and mechanics
-- 🗺️ Experimenting with level design
-- 🎥 Learning cameras, visual effects and game presentation
-- 🤖 Exploring AI and NPC systems
-- 💻 Previous experience with **Lua & GLua**
-- 📚 Currently studying **VG1 IM**
-- 🚀 Always learning and improving
+---
+
+## Stack
+
+[![Unreal Engine](https://cdn.simpleicons.org/unrealengine/ffffff)](https://www.unrealengine.com/)
+[![Lua](https://cdn.simpleicons.org/lua/2C2D72)](https://www.lua.org/)
+[![Git](https://cdn.simpleicons.org/git/F05032)](https://git-scm.com/)
 
 ---
 
-## 🛠️ Tech Stack
+## Stats
 
-<div align="center">
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/codesheen)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/codesheen)
 
-<a href="https://www.unrealengine.com/">
-<img src="https://cdn.simpleicons.org/unrealengine/ffffff" width="65" height="65" alt="Unreal Engine"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/lua/2C2D72" width="60" height="60" alt="Lua"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60" alt="Git"/>
-
-<br/>
-
-### Unreal Engine 5 &nbsp; • &nbsp; Blueprints &nbsp; • &nbsp; Lua &nbsp; • &nbsp; Git
-
-</div>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesheen&theme=tokyonight&hide_border=true)](https://github.com/codesheen)
 
 ---
 
-## 🎮 Currently Learning
+## Contact
 
-<div align="center">
+[![Discord](https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/code.sheen)
+[![Steam](https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199811047199/)
 
-### 🔵 Unreal Engine 5
-
-| 🎯 Area | 📚 Focus |
-|:---:|:---|
-| 🔵 **Blueprints** | Gameplay programming & systems |
-| ⚙️ **Gameplay** | Mechanics, interactions & systems |
-| 🗺️ **Level Design** | Environments, layouts & world building |
-| 🎥 **Cameras** | Camera systems & visual presentation |
-| ✨ **VFX** | Visual effects & atmosphere |
-| 🎨 **Materials** | Materials, shaders & visuals |
-| 🤖 **AI / NPC** | AI behavior & NPC systems |
-| 🚀 **Optimization** | Performance & optimization |
-
-</div>
-
----
-
-## 🧩 Previous Experience
-
-<div align="center">
-
-### 🌙 Lua & GLua
-
-**Scripts & Systems** • **Garry's Mod Addons** • **Gameplay Mechanics**
-
-</div>
-
-Lua and GLua are technologies I have worked with previously, while my current main focus is **Unreal Engine 5 and Blueprints**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=codesheen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesheen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesheen&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Socials & Contact
-
-<div align="center">
-
-<a href="https://discord.com/users/code.sheen">
-<img src="https://img.shields.io/badge/Discord-code.sheen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://steamcommunity.com/profiles/76561199811047199/">
-<img src="https://img.shields.io/badge/Steam-sheen-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/codesheen">
-<img src="https://img.shields.io/badge/GitHub-codesheen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=codesheen&style=for-the-badge&color=61DAFB"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
-
-</div>
