@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Daniel%20%7C%20sheen&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40)
 
-Learning Rust.
+Learning Rust
 
 Future blockchain engineer
 
