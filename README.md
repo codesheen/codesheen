@@ -2,16 +2,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Daniel%20%7C%20sheen&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40)
 
-Norway, Sandnes
-
 Learning Rust.
 
-Studying VG1 IM right now.
+Future blockchain engineer
 
 ## Stack
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ## Contact
 
